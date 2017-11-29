@@ -22,6 +22,7 @@
 <?php
 	if(isset($_SESSION["username"]))
 	{
+	//wkwkkwkwk
 	?>
 	<div id="header">
 		<div id="logo">
