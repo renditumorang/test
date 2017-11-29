@@ -1,0 +1,13 @@
+body { font:15px Arial, Helvetica, sans-serif; color:#333; }
+#container1 { width:1000px; margin:0 auto; }
+fieldset { background:#ffffff; padding-left:100px; border:0px solid #fff; border-color:#fff #666661 #666661 #fff; margin-bottom:36px; width:800px; font-size:18px; }
+fieldset.action { background:#9da2a6; border-color:#e5e5e5 #797c80 #797c80 #e5e5e5; margin-top:-20px; }
+input, textarea, select { font:12px/12px Arial, Helvetica, sans-serif; padding:0; }
+label { font-size:11px; font-weight:bold; color:#666; }
+dl { clear:both; }
+dt { float:left; text-align:left; width:130px; line-height:20px; margin:0 10px 10px 0; }
+dd { float:left; width:475px; line-height:20px; margin:0 0 10px 0; }
+#a { float:left; text-align:left; width:40px; line-height:20px; margin:0 10px 10px 0; }
+
+
+#b { padding-left:50px;}
